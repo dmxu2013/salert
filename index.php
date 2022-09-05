@@ -1,9 +1,13 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Alert Test</title>
  </head>
  <body>
- <?php echo '<p> ADSK 202.13 </p>'; ?> 
- <?php echo '<p> SOXX 371.18 </p>'; ?> 
+  <p> ADSK GE 200.89 </p>
+  <p> IBM  GE 129.05 </p>
+  <p> MSFT GE 258.67 </p>
+  <p> NFLX GE 227.80 </p>
+  <p> QQQ  GE 298.52 </p>
+ <p> SPY  GE 395.82 </p>
  </body>
 </html>
