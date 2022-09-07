@@ -4,5 +4,5 @@
     NFLX GE 227.80
     QQQ  GE 298.52
     SPY  GE 395.82
-    XBI  GE 86.23
+    XBI  GE 86.230
     JEPI GE 54.53
